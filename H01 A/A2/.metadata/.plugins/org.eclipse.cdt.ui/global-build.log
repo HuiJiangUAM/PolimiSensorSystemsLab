@@ -92,3 +92,17 @@ arm-none-eabi-size   Homework01b.elf
   11064	     20	   1708	  12792	   31f8	Homework01b.elf
 Finished building: default.size.stdout
  
+19:10:21 **** Incremental Build of configuration Debug for project Homework01a ****
+make -j15 all 
+arm-none-eabi-size   Homework01a.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7928	     20	   1636	   9584	   2570	Homework01a.elf
+Finished building: default.size.stdout
+ 
+19:23:51 **** Incremental Build of configuration Debug for project Homework01b ****
+make -j15 all 
+arm-none-eabi-size   Homework01b.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11064	     20	   1708	  12792	   31f8	Homework01b.elf
+Finished building: default.size.stdout
+ 

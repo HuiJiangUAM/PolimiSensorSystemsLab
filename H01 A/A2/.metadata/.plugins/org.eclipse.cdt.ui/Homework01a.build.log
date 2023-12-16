@@ -1,4 +1,4 @@
-09:57:46 **** Incremental Build of configuration Debug for project Homework01a ****
+19:10:21 **** Incremental Build of configuration Debug for project Homework01a ****
 make -j15 all 
 arm-none-eabi-size   Homework01a.elf 
    text	   data	    bss	    dec	    hex	filename
@@ -6,5 +6,5 @@ arm-none-eabi-size   Homework01a.elf
 Finished building: default.size.stdout
  
 
-09:57:46 Build Finished. 0 errors, 0 warnings. (took 236ms)
+19:10:21 Build Finished. 0 errors, 0 warnings. (took 218ms)
 
