@@ -106,3 +106,17 @@ arm-none-eabi-size   Homework03_LCD.elf
   11572	    144	   1720	  13436	   347c	Homework03_LCD.elf
 Finished building: default.size.stdout
  
+20:03:59 **** Incremental Build of configuration Debug for project Homework03_DMA ****
+make -j15 all 
+arm-none-eabi-size   Homework03_DMA.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18148	    100	   2204	  20452	   4fe4	Homework03_DMA.elf
+Finished building: default.size.stdout
+ 
+20:05:59 **** Incremental Build of configuration Debug for project Homework03_LCD ****
+make -j15 all 
+arm-none-eabi-size   Homework03_LCD.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11572	    144	   1720	  13436	   347c	Homework03_LCD.elf
+Finished building: default.size.stdout
+ 

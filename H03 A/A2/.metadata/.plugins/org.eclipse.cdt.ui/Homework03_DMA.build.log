@@ -1,4 +1,4 @@
-10:33:58 **** Incremental Build of configuration Debug for project Homework03_DMA ****
+20:03:59 **** Incremental Build of configuration Debug for project Homework03_DMA ****
 make -j15 all 
 arm-none-eabi-size   Homework03_DMA.elf 
    text	   data	    bss	    dec	    hex	filename
@@ -6,5 +6,5 @@ arm-none-eabi-size   Homework03_DMA.elf
 Finished building: default.size.stdout
  
 
-10:33:58 Build Finished. 0 errors, 0 warnings. (took 176ms)
+20:03:59 Build Finished. 0 errors, 0 warnings. (took 172ms)
 
