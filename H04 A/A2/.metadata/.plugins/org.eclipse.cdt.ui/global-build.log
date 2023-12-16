@@ -112,3 +112,17 @@ Finished building: default.size.stdout
  
 Finished building: Project2c.list
  
+20:20:57 **** Incremental Build of configuration Debug for project Project2b ****
+make -j15 all 
+arm-none-eabi-size   Project2b.elf 
+   text	   data	    bss	    dec	    hex	filename
+  28212	    476	   2116	  30804	   7854	Project2b.elf
+Finished building: default.size.stdout
+ 
+20:30:10 **** Build of configuration Debug for project Project2c ****
+make -j15 all 
+arm-none-eabi-size   Project2c.elf 
+   text	   data	    bss	    dec	    hex	filename
+  29124	    516	   2140	  31780	   7c24	Project2c.elf
+Finished building: default.size.stdout
+ 

@@ -43,3 +43,16 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/jiang
 
 !ENTRY org.eclipse.cdt.core 1 0 2023-12-13 10:43:08.360
 !MESSAGE Indexed 'Project2c' (26 sources, 118 headers) in 2.43 sec: 11,364 declarations; 62,695 references; 2 unresolved inclusions; 42 syntax errors; 147 unresolved names (0.2%)
+!SESSION 2023-12-16 20:17:41.885 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -keyring /Users/jianghui/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/jianghui/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-12-16 20:18:02.042
+!MESSAGE Log4j2 initialized with config file /Users/jianghui/Documents/GitHub/PolimiSensorSystemsLab/H04 A/A2/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-16 20:18:09.521
+!MESSAGE Started RMI Server, listening on port 41337
