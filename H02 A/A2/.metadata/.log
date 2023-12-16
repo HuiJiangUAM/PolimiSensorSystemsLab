@@ -83,3 +83,16 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/jiang
 
 !ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-13 10:15:01.723
 !MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-12-16 19:33:15.787 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -keyring /Users/jianghui/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/jianghui/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-12-16 19:33:37.660
+!MESSAGE Log4j2 initialized with config file /Users/jianghui/Documents/GitHub/PolimiSensorSystemsLab/H02 A/A2/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-16 19:33:42.723
+!MESSAGE Started RMI Server, listening on port 41337
