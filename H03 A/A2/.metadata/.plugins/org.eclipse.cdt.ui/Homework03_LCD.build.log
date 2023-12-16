@@ -1,0 +1,10 @@
+10:41:31 **** Incremental Build of configuration Debug for project Homework03_LCD ****
+make -j15 all 
+arm-none-eabi-size   Homework03_LCD.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11572	    144	   1720	  13436	   347c	Homework03_LCD.elf
+Finished building: default.size.stdout
+ 
+
+10:41:31 Build Finished. 0 errors, 0 warnings. (took 174ms)
+

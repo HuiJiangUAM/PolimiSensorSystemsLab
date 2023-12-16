@@ -1,0 +1,68 @@
+!SESSION 2023-11-13 19:12:49.599 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -keyring /Users/jianghui/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/jianghui/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-11-13 19:13:15.431
+!MESSAGE Log4j2 initialized with config file /Users/jianghui/Documents/GitHub/ss_hw/H07 A/A2/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-11-13 19:13:19.790
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-11-13 19:13:38.510
+!MESSAGE Indexed 'Project1b' (23 sources, 115 headers) in 3.81 sec: 11,210 declarations; 62,004 references; 2 unresolved inclusions; 42 syntax errors; 147 unresolved names (0.2%)
+!SESSION 2023-11-20 12:16:06.353 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -keyring /Users/jianghui/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/jianghui/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-11-20 12:16:36.565
+!MESSAGE Log4j2 initialized with config file /Users/jianghui/Documents/GitHub/ss_hw/H07 A/A2/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-11-20 12:16:40.578
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-12-10 09:58:47.271 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -keyring /Users/jianghui/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/jianghui/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-12-10 09:59:10.592
+!MESSAGE Log4j2 initialized with config file /Users/jianghui/Documents/GitHub/ss_hw/H07 A/A2/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-10 09:59:18.392
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-12-13 11:21:14.151 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -keyring /Users/jianghui/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/jianghui/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-12-13 11:21:31.253
+!MESSAGE Log4j2 initialized with config file /Users/jianghui/Documents/GitHub/ss_hw/H07 A/A2/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-13 11:21:39.502
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-12-13 11:27:57.465 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -keyring /Users/jianghui/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/jianghui/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-12-13 11:28:02.911
+!MESSAGE Log4j2 initialized with config file /Users/jianghui/Documents/GitHub/ss_hw/H07 A/A2/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-13 11:28:10.305
+!MESSAGE Started RMI Server, listening on port 41337

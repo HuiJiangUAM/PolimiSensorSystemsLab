@@ -1,0 +1,32 @@
+!SESSION 2023-12-03 15:45:15.058 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -keyring /Users/jianghui/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/jianghui/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-12-03 15:45:41.520
+!MESSAGE Log4j2 initialized with config file /Users/jianghui/Documents/GitHub/ss_hw/H01 A/A2/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-03 15:45:46.288
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-03 15:48:15.817
+!MESSAGE Indexed 'Homework01a' (22 sources, 110 headers) in 3.14 sec: 9,378 declarations; 38,122 references; 2 unresolved inclusions; 42 syntax errors; 147 unresolved names (0.31%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-03 15:48:23.984
+!MESSAGE Indexed 'Homework01b' (22 sources, 135 headers) in 2.53 sec: 14,419 declarations; 66,034 references; 4 unresolved inclusions; 91 syntax errors; 333 unresolved names (0.41%)
+!SESSION 2023-12-13 09:46:43.165 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -keyring /Users/jianghui/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/jianghui/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-12-13 09:47:04.797
+!MESSAGE Log4j2 initialized with config file /Users/jianghui/Documents/GitHub/ss_hw/H01 A/A2/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-13 09:47:10.981
+!MESSAGE Started RMI Server, listening on port 41337

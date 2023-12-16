@@ -1,0 +1,10 @@
+11:20:37 **** Incremental Build of configuration Debug for project Project1c ****
+make -j15 all 
+arm-none-eabi-size   Project1c.elf 
+   text	   data	    bss	    dec	    hex	filename
+  41988	    492	   2508	  44988	   afbc	Project1c.elf
+Finished building: default.size.stdout
+ 
+
+11:20:37 Build Finished. 0 errors, 0 warnings. (took 175ms)
+

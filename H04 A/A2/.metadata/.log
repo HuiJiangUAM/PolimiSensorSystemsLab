@@ -1,0 +1,45 @@
+!SESSION 2023-12-03 16:53:57.576 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -keyring /Users/jianghui/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/jianghui/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-12-03 16:54:29.460
+!MESSAGE Log4j2 initialized with config file /Users/jianghui/Documents/GitHub/ss_hw/H04 A/A2/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-03 16:54:33.708
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-12-03 16:55:47.201 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -keyring /Users/jianghui/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/jianghui/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-12-03 16:55:53.062
+!MESSAGE Log4j2 initialized with config file /Users/jianghui/Documents/GitHub/ss_hw/H04 A/A2/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-03 16:55:57.567
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-12-13 10:42:11.171 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -keyring /Users/jianghui/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/jianghui/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-12-13 10:42:31.120
+!MESSAGE Log4j2 initialized with config file /Users/jianghui/Documents/GitHub/ss_hw/H04 A/A2/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-13 10:42:36.139
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-13 10:42:55.895
+!MESSAGE Indexed 'Project2b' (25 sources, 114 headers) in 3.68 sec: 11,085 declarations; 62,165 references; 2 unresolved inclusions; 42 syntax errors; 147 unresolved names (0.2%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-13 10:43:08.360
+!MESSAGE Indexed 'Project2c' (26 sources, 118 headers) in 2.43 sec: 11,364 declarations; 62,695 references; 2 unresolved inclusions; 42 syntax errors; 147 unresolved names (0.2%)
