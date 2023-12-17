@@ -923,3 +923,10 @@ arm-none-eabi-size   Transceiver_H10.elf
   21168	    256	   4944	  26368	   6700	Transceiver_H10.elf
 Finished building: default.size.stdout
  
+10:39:57 **** Incremental Build of configuration Debug for project Transceiver_H10 ****
+make -j15 all 
+arm-none-eabi-size   Transceiver_H10.elf 
+   text	   data	    bss	    dec	    hex	filename
+  21168	    256	   4944	  26368	   6700	Transceiver_H10.elf
+Finished building: default.size.stdout
+ 
