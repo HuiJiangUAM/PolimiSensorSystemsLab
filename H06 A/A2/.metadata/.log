@@ -30,3 +30,19 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/jiang
 
 !ENTRY org.eclipse.cdt.core 1 0 2023-12-13 11:03:34.812
 !MESSAGE Indexed 'Project1c' (24 sources, 115 headers) in 2.01 sec: 11,642 declarations; 69,821 references; 2 unresolved inclusions; 42 syntax errors; 147 unresolved names (0.18%)
+!SESSION 2023-12-17 09:21:04.418 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -keyring /Users/jianghui/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/jianghui/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-12-17 09:21:25.392
+!MESSAGE Log4j2 initialized with config file /Users/jianghui/Documents/GitHub/PolimiSensorSystemsLab/H06 A/A2/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-17 09:21:32.483
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.jobs 2 2 2023-12-17 09:21:37.743
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.ui.internal.Workbench$39
