@@ -62,3 +62,17 @@ arm-none-eabi-size   Project1b.elf
   16172	     36	   2004	  18212	   4724	Project1b.elf
 Finished building: default.size.stdout
  
+10:33:00 **** Incremental Build of configuration Debug for project Project1b ****
+make -j15 all 
+arm-none-eabi-size   Project1b.elf 
+   text	   data	    bss	    dec	    hex	filename
+  16172	     36	   2004	  18212	   4724	Project1b.elf
+Finished building: default.size.stdout
+ 
+10:33:16 **** Incremental Build of configuration Debug for project Project1b ****
+make -j15 all 
+arm-none-eabi-size   Project1b.elf 
+   text	   data	    bss	    dec	    hex	filename
+  16172	     36	   2004	  18212	   4724	Project1b.elf
+Finished building: default.size.stdout
+ 
